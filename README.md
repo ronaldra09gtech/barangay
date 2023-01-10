@@ -65,8 +65,8 @@ note: to run the website on localhost for developing testing just run this on th
 To access the Server Side panel we provided a seed generated account
 
     ```
-    Username: giann@gmail.com
-    Password: giann
+    Username: ronaldra09gtech@gmail.com
+    Password: ronald 
     Usertype: Admin
     ```	
 
